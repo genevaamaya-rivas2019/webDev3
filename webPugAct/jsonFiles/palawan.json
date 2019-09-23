@@ -1,0 +1,10 @@
+{
+    "images":[ "/public/images/palawan3.jpg", "/public/images/palawan1.jpg","/public/images/palawan2.jpg"
+    ],
+    "name" : "Province of Palawan",
+    "shortname": "Palawan",
+    "group": "Visayas",
+    "population": "849,469",
+    "delicacies":["Sisig ","Chicken Inasal","Halo Halo"],
+    "write_up": "Long before it became “The Best Island in the World” and became a major tourist destination, Palawan had a significant role over the years especially during those dark days of colonization from one colonizer to another. The early history of this province was determined by a team of researchers led by Dr. Robert Fox who has found the evidence of life from the remains they unearthed in the Tabon Cave – proving that man has continuously lived in Palawan for more than 50,000 years ago. They also found the remains of those they called “Tabon Man” in the municipality of Quezon. Although the origin of the cave dwellers was not yet established, anthropologists believe that they came from Borneo. Until now, excavations and explorations are still done in the Tabon Cave which was dubbed as “the Cradle of Philippine Civilization” to find other yet discovered items and remains that could be useful for further studies."
+}

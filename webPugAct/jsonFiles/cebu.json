@@ -1,0 +1,11 @@
+{
+    "images": ["/public/images/cebu.jpg", "/public/images/cebu1.jpg", "/public/images/cebu2.png"
+    ],
+    "name" : "Province of Cebu",
+    "shortname": "Cebu",
+    "group": "Visayas",
+    "population": "922,611",
+    "delicacies":[ "Tostado","Banana Meat","Torta"],
+    "write_up": "Cebu is a province in the Philippines consisting of the Cebu Island and many other surrounding islands. Its name’s derivation has many alternative interpretation but according to history, it was derived from the word “Sibu” which means “trade”. During the reign of Rajah Humabon, the island has since become an important trading center where various products are being bartered like agricultural products, precious stones, perfumes, etc. Its harbors has become known vernacularly as “Sinibuayng Hingpit” which means “the place for trading” which later was shortened to sibu or sibo (“to trade”) from which the modern name “Cebu” came from.It is known to be a fishing village before the Spaniards came but became industrialized through the years. It is now one of the most developed provinces in the Philippines, with Cebu City as the center of commerce and industry.",
+    "rating": "0"
+}

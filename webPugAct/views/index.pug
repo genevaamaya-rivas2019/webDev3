@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+html(lang="en")
+    head
+        meta(charset="UTF-8")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0")
+        meta(http-equiv="X-UA-Compatible", content="ie=edge")
+        title Document
+    style
+        include style.css
+    body
+        h1#name= name
+        img(src=images[0] style="width: 100%" )
+        img(src=images[1] ).half
+        img(src=images[2]).half
+
+        label#lblGroup= "Major Island: "
+        span#group= group
+
+        h2#lblDel= "Delicacies"
+        ul
+            each delicacy in [delicacies[0], delicacies[1], delicacies[2]]
+                li= delicacy
+        h2#lblWrite= "Write Up: "
+        p#writeUp= write_up
