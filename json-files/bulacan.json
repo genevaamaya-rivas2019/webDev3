@@ -1,0 +1,11 @@
+{
+    "images": ["/public/images/bulacan.jpg", "/public/images/bulacan1.jpg", "/public/images/bulacan2.png"
+    ],
+    "name" : "Province of Bulacan",
+    "shortname": "Bulacan",
+    "group": "Luzon",
+    "population": "3,292,071",
+    "delicacies":["Dinuguan ","Seafood","Sticky-Rice Cakes"],
+    "write_up": "The name Bulakan was derived from the Tagalog word bulak which is cotton in English. When the Spaniards first came to the country's shore, they found cotton, among others, growing abundantly in many places in Luzon, particularly in Bulakan",
+    "rating":"0"
+}

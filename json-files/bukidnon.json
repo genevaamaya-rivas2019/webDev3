@@ -1,0 +1,11 @@
+{
+    "images":[ "/public/images/bukidnon3.jpg", "/public/images/bukidnon1.jpg","/public/images/bukidnon2.jpg"
+    ],
+    "name" : "Province of Bukidnon",
+    "shortname": "Bukidnon",
+    "group": "Mindanao",
+    "population": "1,415,226",
+    "delicacies":["Sinuglaw ","Puto Maya","Pigok"],
+    "write_up": "The Bukidnons are one of the traditionalistic ethnic groups in the southern Philippines. They inhabit the northeastern part of Mindanao, the second largest island of the archipelago. The term “Bukidnon” (mountain dweller) was derived from the Cebuano language but nowadays, it is accepted by most members of the ethnic group referred to. There are seven different tribes in the province namely: Talaandig, Higa-onon, Bukidnon, Umayamnon, Matigsalug, Manobo and Tigwahanon..",
+    "rating":"0"
+}

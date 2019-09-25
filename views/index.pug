@@ -4,6 +4,7 @@ html(lang="en")
         meta(charset="UTF-8")
         meta(name="viewport", content="width=device-width, initial-scale=1.0")
         meta(http-equiv="X-UA-Compatible", content="ie=edge")
+
         title Document
     style
         include style.css
@@ -22,3 +23,10 @@ html(lang="en")
                 li= delicacy
         h2#lblWrite= "Write Up: "
         p#writeUp= write_up
+        h2#rating= "Rating:"
+            div.btn_rate
+                button 1
+                button 2
+                button 3
+                button 4
+                button 5

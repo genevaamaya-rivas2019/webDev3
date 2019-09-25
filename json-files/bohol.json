@@ -1,0 +1,11 @@
+{
+    "images":["/public/images/bohol.jpg", "/public/images/bohol1.jpg", "/public/images/bohol2.jpg"
+    ],
+    "name" : "Province of Bohol",
+    "shortname": "Bohol",
+    "group": "Visayas",
+    "population": "1,230,110",
+    "delicacies":["Kalamay", "Otap", "Maruya"],
+    "write_up": "The name Bohol is thought to be derived from the name of the barrio of Bo-ol, a barangay found in Tagbilaran City which was among the first places toured by the Magellan expedition. History has it that one of the Spanish ships of Magellan (the Concepcion) was burned in this province after Magellan was killed Lapulapu in Mactan.",
+    "rating":"0"
+}

@@ -1,0 +1,7 @@
+
+ var filename = req.params.name + ".json";
+    fs.readFile("./jsonFiles/" + filename, function (err, data) {
+        if (err) throw err;
+        var info = JSON.parse(data);
+        res.render('index', info)
+    });
